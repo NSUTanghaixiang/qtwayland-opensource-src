@@ -1,3 +1,15 @@
+qtwayland-opensource-src (5.15.7.2-1+dde) unstable; urgency=medium
+
+  * Update symbols.
+
+ -- Duan Ting <duanting@uniontech.com>  Fri, 02 Dec 2022 09:36:24 +0800
+
+qtwayland-opensource-src (5.15.7.1-1+dde) unstable; urgency=medium
+
+  * Update the abi package version number.
+
+ -- Duan Ting <duanting@uniontech.com>  Thu, 01 Dec 2022 17:08:03 +0800
+
 qtwayland-opensource-src (5.15.7-1+dde) unstable; urgency=medium
 
   [ Duan Ting ]
